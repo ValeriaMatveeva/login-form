@@ -42,7 +42,7 @@
 
             
             ?>
-            <header>Авторизация</header>
+            <header><b>I'm banan</b>Авторизация</header>
             <form action="" method="post">
                 <div class="field input">
                     <label for="email">Почта</label>
